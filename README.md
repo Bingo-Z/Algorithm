@@ -6,3 +6,4 @@ Study for LeetCode/OJ/Luogu/Codeforces/and so on.
 ### [二分查找](https://github.com/Bingo-Z/Algorithm/tree/main/LeetCode/Binary-Search/list.md)
 ### [滑动窗口](https://github.com/Bingo-Z/Algorithm/blob/main/LeetCode/Sliding-window/List.md)
 ### [字符串](https://github.com/Bingo-Z/Algorithm/blob/main/LeetCode/Character-string/List.md)
+### [排序](https://github.com/Bingo-Z/Algorithm/blob/main/LeetCode/Sort/List.md)
